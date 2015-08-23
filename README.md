@@ -40,3 +40,6 @@ label_name (activity name) and calculates the mean of every other column (ie all
 5) Makes the data tall and thin by switching the columns (ie the measurements) into a column named "Measurement" with the results being displayed under "Mean"
 
 6) Creates the output txt file in the root directory
+
+
+## More detailed code description can be found in the script
